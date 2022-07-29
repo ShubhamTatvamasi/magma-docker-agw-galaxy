@@ -1,0 +1,1 @@
+# magma-docker-agw-galaxy
