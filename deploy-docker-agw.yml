@@ -1,0 +1,5 @@
+---
+- name: Install Magma Access Gateway
+  hosts: all
+  roles:
+    - role: docker
